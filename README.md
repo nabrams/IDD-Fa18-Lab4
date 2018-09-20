@@ -76,7 +76,7 @@ void loop() {
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+[movie of my raw circuit in action!](https://youtu.be/ckV_xu6D-Ac)
 
 ## Part D. Paper puppet
 
