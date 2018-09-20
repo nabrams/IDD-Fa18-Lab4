@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+A lab report by Natalie B. Abrams
 
 ## In this Report
 
