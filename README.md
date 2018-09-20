@@ -18,6 +18,13 @@ You'll need to describe your design, include a video of your paper display in op
 
 **a. Which color wires correspond to power, ground and signal?**
 
+Orange - Signal
+
+Brown - Ground
+
+Red - Power
+
+
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
