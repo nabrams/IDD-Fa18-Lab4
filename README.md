@@ -10,6 +10,8 @@ You'll need to describe your design, include a video of your paper display in op
 
 **Link to a video of your virbation motor**
 
+[Vibrating motor!](https://youtu.be/3ppwq9WGGUE)
+
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
