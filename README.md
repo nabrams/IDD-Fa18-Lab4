@@ -1,6 +1,6 @@
 # Paper Puppets
 
-A lab report by Natalie B. Abrams
+*A lab report by Natalie B. Abrams*
 
 ## In this Report
 
