@@ -29,6 +29,9 @@ Red - Power
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
+It should be attached to Pin 9.
+
+
 **b. What aspects of the Servo code control angle or speed?**
 
 ## Part C. Integrating input and output
