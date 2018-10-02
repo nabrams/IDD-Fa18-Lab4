@@ -88,12 +88,12 @@ void loop() {
 
 **a. Make a video of your final design.**
  
- [Code!](./)
- [Pitches File](./)
+ [Code!](./mySweep2.ino)
+ 
+ [Pitches File](./pitches.h)
  
  ### Images of my robot!
  
  ![](4-1.JPG)
  ![](4-2.JPG)
  ![](4-3.JPG)
- ![](4-4.JPG)
