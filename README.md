@@ -87,6 +87,8 @@ void loop() {
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+[Robot in action!](https://youtu.be/D9TBtqR4vrU)
  
  [Code!](./mySweep2.ino)
  
