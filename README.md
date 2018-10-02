@@ -88,7 +88,7 @@ void loop() {
 
 **a. Make a video of your final design.**
 
-[Robot in action!](https://youtu.be/D9TBtqR4vrU)
+![a relative link](./robot.jpg)(https://youtu.be/D9TBtqR4vrU)
  
  [Code!](./mySweep2.ino)
  
